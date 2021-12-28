@@ -1,9 +1,9 @@
-#Fundamentals in Machine Learning
+# Fundamentals in Machine Learning
 
 [![AnYinProduction](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://wyn-associates.com/research/)
 [![Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-This is the Github repo for the field of Statistical Machine Learning. I set this up for future generations and for anybody who is interested in this topic. I hope this site can be helpful for you all. Please feel free to contact me on [LinkedIn](https://linkedin/com/in/yiqiaoyin) if you have questions.
+This is the Github repo for the field of Fundamentals in Machine Learning. I set this up for future generations and for anybody who is interested in this topic. I hope this site can be helpful for you all. Please feel free to contact me on [LinkedIn](https://linkedin/com/in/yiqiaoyin) if you have questions.
 
 <p align="center">
   <img width="300" src="https://github.com/yiqiao-yin/Fundamentals-in-Machine-Learning/blob/master/Figures/vae.gif">
@@ -55,7 +55,7 @@ Programming Languages (academic level):
 Programming Languages (industrial level):
 - You want to be familiar with C++/C#, Java, and Python altogether for the purpose writing sotware packages and **.exe** format files. These skills go beyond statistical modeling and predictive machine learning. They are more about building software engineers and building platfoms (such as GoogleCloud, Amazon Web Services, or Mobile App).
 - I sourced this repo [here](https://github.com/yiqiao-yin/Statistical_Machine_Learning/tree/master/Java) for those who are interested in getting started with Java. This [site](https://introcs.cs.princeton.edu/java/11cheatsheet/) has a few tips about quick start-ups in Java as well. 
-- Click [here](https://leetcode.com/) for Leetcode, an online playground environment to code C-base, Java, and Python in a convenient manner. No need to install anything. One can always refer to some quick tips on Python specifically on [Scikit Learn](https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/PythonReferenceSheet/Scikit_Learn_Cheat_Sheet_Python.pdf) and [MatplotLib](https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/PythonReferenceSheet/Python_Matplotlib_Cheat_Sheet.pdf). 
+- Click [here](https://leetcode.com/) for Leetcode, an online playground environment to code C-base, Java, and Python in a convenient manner. No need to install anything. One can always refer to some quick tips on Python specifically on [Scikit Learn](https://github.com/yiqiao-yin/Fundamentals-in-Machine-Learning/blob/master/PythonReferenceSheet/Scikit_Learn_Cheat_Sheet_Python.pdf) and [MatplotLib](https://github.com/yiqiao-yin/Fundamentals-in-Machine-Learning/blob/master/PythonReferenceSheet/Python_Matplotlib_Cheat_Sheet.pdf). 
 - To handle big data in *R*, one can always refer to Spark SQL R interface [here](https://spark.apache.org/docs/latest/sql-programming-guide.html). 
 - Another open-source stream-processing software platform developed by LinkedIn and donated to the Apache Software Foundation, written in Scala and Java, is [kafka](https://kafka.apache.org/). A famous Go Library in Kafka can be found [here](https://github.com/yiqiao-yin/sarama). This [confluence page](https://cwiki.apache.org/confluence/display/KAFKA/Clients#Clients-Go(AKAgolang)) tells us how to handle clients using Kafka as well.
 - To implement GoLang in *R*, one can refer to this [github](https://github.com/rstats-go/gotest).
