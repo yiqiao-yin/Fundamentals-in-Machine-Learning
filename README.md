@@ -1,18 +1,17 @@
-# Statistical Machine Learning
+#Fundamentals in Machine Learning
 
-[![AnYinProduction](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://yinscapital.com/research/)
+[![AnYinProduction](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://wyn-associates.com/research/)
 [![Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 This is the Github repo for the field of Statistical Machine Learning. I set this up for future generations and for anybody who is interested in this topic. I hope this site can be helpful for you all. Please feel free to contact me on [LinkedIn](https://linkedin/com/in/yiqiaoyin) if you have questions.
 
 <p align="center">
-  <img width="300" src="https://github.com/yiqiao-yin/Statistical-Machine-Learning/blob/master/Figures/vae.gif">
+  <img width="300" src="https://github.com/yiqiao-yin/Fundamentals-in-Machine-Learning/blob/master/Figures/vae.gif">
 </p>
 
 - Copyright © Yiqiao Yin, 2016 – Present
 - Contact / Author: Yiqiao Yin
-- Email: Yiqiao.Yin@YinsCapital.com
-
+- Email: Yiqiao.Yin@wyn-associates.com
 
 # Documents
 
@@ -37,7 +36,7 @@ Some great books are:
 - An Introduction to Support Vector Machines and Other Kernel-based Learning Methods by Cristianini; click [here](https://www.amazon.com/Introduction-Support-Machines-Kernel-based-Learning/dp/0521780195)
 - Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, Jerome Friedman; click [here](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 - Machine Learning by Kevin Murphy; click [here](https://www.cs.ubc.ca/~murphyk/MLbook/), and [here](https://www.r-bloggers.com/2014/09/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/) for official video from the authors
-- A collection of cheatsheet from Stanford CS230 can be found [here](https://github.com/yiqiao-yin/Statistical-Machine-Learning/tree/master/Stanford_CS230_DeepLearning_Cheatsheet_Collection).
+- A collection of cheatsheet from Stanford CS230 can be found [here](https://github.com/yiqiao-yin/Fundamentals-in-Machine-Learning/tree/master/Stanford_CS230_DeepLearning_Cheatsheet_Collection).
 - Dive into Deep Learning: course website [here](https://d2l.ai/). I love this course and I gained a lot of insight in my learning of deep learning models especially from brute coding point of view using three different libraries at the same time (MXNet, Torch, and Keras Tensorflow). This course is also associated with UC Berkeley course which is [here](https://courses.d2l.ai/berkeley-stat-157/index.html).
 
 For those of you who has the time and capital resources, I recommend to follow a sequence of courses that are designed to teach you the entire system thoroughly. 
